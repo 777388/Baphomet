@@ -54,3 +54,4 @@ while(evaluate2 <= evaluate):
     print("\033[32m f2-(reversenum(f2)) Self:\033[0m")
     Coagula = print(list(map(self2, F)))
     print("")
+    evaluate2 += 1
