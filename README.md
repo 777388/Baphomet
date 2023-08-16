@@ -34,6 +34,10 @@ CALM:
 
 https://www.youtube.com/watch?v=eGT8khAoGx0
 
+Its pretty interesting how x*reversenum(x)/x = x+reversenum(x)-x. Likewise reversenum(x)*x/reversenum(x) = reversenum(x)+x-reversenum(x)
+
+12 * 21 / 12 = 12 + 21 -12
+
 SOLVE:
 
 With Baphomet.py you'll be able to convert a string to a number, and then it will put together a matrix map of equations leading up to that number. While the final series on 6 in not echoing back whether it is for self, consciousness, time or space, through the repeated usage of the backwards ae, ɘa.
