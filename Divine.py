@@ -21,7 +21,7 @@ self3 = lambda f3: f3-reversenum(f3)+f3
 time4 = lambda x4: x4*x4/x4
 space4 = lambda d4: d4+d4-d4
 consciousness4 = lambda f4: f4/f4*f4
-self4 = lambda f4: f4-f4+f4
+self4 = lambda e4: e4-e4+e4
 evaluate = 0
 for letter in sys.argv[1]:
     evaluate += ord(letter)
@@ -76,6 +76,6 @@ print("\033[34m*****"+str(evaluate)+"*****\033[0m")
 print("\033[32m f4/f4*f4 Consciousness:\033[0m")
 anew = print(list(map(consciousness4, F)))
 print("\033[34m*****"+str(evaluate)+"*****\033[0m")
-print("\033[32m e4/e4*e4 Self:\033[0m")
+print("\033[32m e4-e4+e4 Self:\033[0m")
 Now = print(list(map(self4, F)))
 print("")
