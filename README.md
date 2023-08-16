@@ -17,3 +17,7 @@ usage:python3 49.py "my dick"
 with Divine.py you'll be able to convert the string back to the number it was equated out to be, which is important in divine numbers according to a book I found on Conjuring https://archive.org/details/magiciansownbook00arno/page/202/mode/2up?view=theater  uses strings instead of numbers
 
 usage: python3 Divine.py "conjure"
+
+With Baphomet.py you'll be able to convert a string to a number, and then it will put together a matrix map of equations leading up to that number. While the final series on 6 in not echoing back whether it is for self, consciousness, time or space, through the repeated usage of the backwards ae, ɘa.
+
+usage: python3 Baphomet.py Baphomet
