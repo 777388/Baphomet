@@ -13,3 +13,7 @@ usage: Python3 9.py 258
 with 49.py you'll be able to use a string as such 
 
 usage:python3 49.py "my dick"
+
+with Divine.py you'll be able to convert the string back to the number it was equated out to be, which is important in divine numbers according to a book I found on Conjuring https://archive.org/details/magiciansownbook00arno/page/202/mode/2up?view=theater  uses strings instead of numbers
+
+usage: python3 Divine.py "conjure"
