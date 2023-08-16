@@ -18,6 +18,8 @@ with Divine.py you'll be able to convert the string back to the number it was eq
 
 usage: python3 Divine.py "conjure"
 
+8&6B49.py and 5.py require no explanation.
+
 With Baphomet.py you'll be able to convert a string to a number, and then it will put together a matrix map of equations leading up to that number. While the final series on 6 in not echoing back whether it is for self, consciousness, time or space, through the repeated usage of the backwards ae, ɘa.
 
 usage: python3 Baphomet.py Baphomet
