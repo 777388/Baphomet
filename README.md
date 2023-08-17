@@ -45,3 +45,8 @@ With Baphomet.py you'll be able to convert a string to a number, and then it wil
 COAGULA:
 
 usage: python3 Baphomet.py Baphomet
+
+
+Run question.py, copy down what it spits out, and paste it into Baphomet.py
+
+I got this PMC number https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8844676/ The Government Willingly admits that there are anti antibodies that cause the vaccine to kill people.
